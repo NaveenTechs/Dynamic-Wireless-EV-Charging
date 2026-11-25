@@ -10,14 +10,12 @@ stops by transferring electrical energy wirelessly
 through a charging system.
 
 ## Components Used
-- Arduino / Microcontroller
-- Wireless Power Transmitter
-- Wireless Power Receiver
-- Rechargeable Battery
-- Charging Circuit
-- Motor Driver
-- DC Motor
-- Connecting Wires
+- Uno
+- Copper wire 
+- Dc to Dc converter 
+- Bridge rectifier 
+- Relay 
+- MOSFET
 
 
 ## Working Principle
@@ -38,7 +36,7 @@ the vehicle battery.
 - Smart battery monitoring
 - Real-time charging status
 
-## Arduino Source Code
+## Source Code
 
 [view Arduino Code](DynamicWirelessEV.ino)
 
