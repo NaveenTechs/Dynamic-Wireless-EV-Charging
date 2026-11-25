@@ -41,3 +41,6 @@ the vehicle battery.
 ## Arduino Source Code
 
 [view Arduino Code](DynamicWirelessEV.ino)
+
+## Project Status
+Hardware project documentation and prototype 
