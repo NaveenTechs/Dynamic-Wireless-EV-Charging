@@ -10,14 +10,15 @@ stops by transferring electrical energy wirelessly
 through a charging system.
 
 ## Components Used
+- Arduino / Microcontroller
+- Wireless Power Transmitter
+- Wireless Power Receiver
+- Rechargeable Battery
+- Charging Circuit
+- Motor Driver
+- DC Motor
+- Connecting Wires
 
-  Arduino / Microcontroller
-  Wireless Power Transmitter
-  Wireless Power Receiver
-  Rechargeable Battery
-  Charging Circuit
-  Motor Driver
-  DC Motor
 
 ## Working Principle
 The system uses wireless power transfer to
@@ -28,11 +29,11 @@ the vehicle battery.
 
 ## Applications
 
- Electric Vehicles
- Smart Transportation
- Wireless Charging Systems
+ - Electric Vehicles
+ - Smart Transportation
+ - Wireless Charging Systems
 
 ## Future Improvements
-Improved charging efficiency
-Smart battery monitoring
-Real-time charging status
+- Improved charging efficiency
+- Smart battery monitoring
+- Real-time charging status
